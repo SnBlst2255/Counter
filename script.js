@@ -39,9 +39,7 @@ document.getElementById('decrease').addEventListener('click', function(){
     updateCounterSpan();
 });
 
-document.addEventListener('keypress', function(e){
-
-
+document.addEventListener('keydown', function(e){
     if(e.key == '0'){
         reset();
         updateCounterSpan();

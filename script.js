@@ -52,4 +52,6 @@ document.addEventListener('keydown', function(e){
     }
 });
 
-window.onload = updateCounterSpan;
+window.onload = function(){
+    updateCounterSpan();
+};

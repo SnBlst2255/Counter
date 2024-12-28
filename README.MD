@@ -19,4 +19,4 @@ A minimalist counter application with a dark-themed interface, built with HTML, 
 
 Simply click the increment, decrement, or reset buttons to adjust the counter. The app will display the current count and remember the last count value, even after page reloads.
 
-https://sunblast2255.github.io/Counter/
+https://snblst2255.github.io/Counter/

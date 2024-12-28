@@ -12,6 +12,9 @@ A minimalist counter application with a dark-themed interface, built with HTML, 
 
 - Reset Button: Resets the counter back to zero.
 
+> [!TIP]
+> You can use the “-”, “+”, and “0” keys on the keyboard to control it.
+
 # Usage
 
 Simply click the increment, decrement, or reset buttons to adjust the counter. The app will display the current count and remember the last count value, even after page reloads.

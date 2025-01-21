@@ -13,7 +13,7 @@ A minimalist counter application with a dark-themed interface, built with HTML, 
 - Reset Button: Resets the counter back to zero.
 
 > [!TIP]
-> You can use the “-”, “+”, and “0” keys on the keyboard to control it.
+> You can use the “Arrow Up”, “Arrow Down”, and “Space” keys on the keyboard to control it.
 
 # Usage
 

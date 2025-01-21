@@ -40,13 +40,13 @@ document.getElementById('decrease').addEventListener('click', function(){
 });
 
 document.addEventListener('keydown', function(e){
-    if(e.key == '0'){
+    if(e.key == ' '){
         reset();
         updateCounterSpan();
-    }else if(e.key == '-'){
+    }else if(e.key == 'ArrowDown'){
         decrease();
         updateCounterSpan();
-    }else if(e.key == '='){
+    }else if(e.key == 'ArrowUp'){
         increase();
         updateCounterSpan();
     }
